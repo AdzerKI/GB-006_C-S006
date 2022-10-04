@@ -1,0 +1,15 @@
+C:\GitHub\geekbrains\006_C#\GB-006_C-S006\bin\Debug\net6.0\GB-006_C-S006.exe
+C:\GitHub\geekbrains\006_C#\GB-006_C-S006\bin\Debug\net6.0\GB-006_C-S006.deps.json
+C:\GitHub\geekbrains\006_C#\GB-006_C-S006\bin\Debug\net6.0\GB-006_C-S006.runtimeconfig.json
+C:\GitHub\geekbrains\006_C#\GB-006_C-S006\bin\Debug\net6.0\GB-006_C-S006.dll
+C:\GitHub\geekbrains\006_C#\GB-006_C-S006\bin\Debug\net6.0\GB-006_C-S006.pdb
+C:\GitHub\geekbrains\006_C#\GB-006_C-S006\obj\Debug\net6.0\GB-006_C-S006.csproj.AssemblyReference.cache
+C:\GitHub\geekbrains\006_C#\GB-006_C-S006\obj\Debug\net6.0\GB-006_C-S006.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\geekbrains\006_C#\GB-006_C-S006\obj\Debug\net6.0\GB-006_C-S006.AssemblyInfoInputs.cache
+C:\GitHub\geekbrains\006_C#\GB-006_C-S006\obj\Debug\net6.0\GB-006_C-S006.AssemblyInfo.cs
+C:\GitHub\geekbrains\006_C#\GB-006_C-S006\obj\Debug\net6.0\GB-006_C-S006.csproj.CoreCompileInputs.cache
+C:\GitHub\geekbrains\006_C#\GB-006_C-S006\obj\Debug\net6.0\GB-006_C-S006.dll
+C:\GitHub\geekbrains\006_C#\GB-006_C-S006\obj\Debug\net6.0\refint\GB-006_C-S006.dll
+C:\GitHub\geekbrains\006_C#\GB-006_C-S006\obj\Debug\net6.0\GB-006_C-S006.pdb
+C:\GitHub\geekbrains\006_C#\GB-006_C-S006\obj\Debug\net6.0\GB-006_C-S006.genruntimeconfig.cache
+C:\GitHub\geekbrains\006_C#\GB-006_C-S006\obj\Debug\net6.0\ref\GB-006_C-S006.dll
